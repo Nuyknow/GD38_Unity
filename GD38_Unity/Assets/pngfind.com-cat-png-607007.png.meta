@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: ac9fe88e97b821e45b70e45930d1a23b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7287604802497687131
+    second: pngfind.com-cat-png-607007_0
+  - first:
+      213: -4115384267322275835
+    second: pngfind.com-cat-png-607007_1
+  - first:
+      213: 5088324705318032099
+    second: pngfind.com-cat-png-607007_2
+  - first:
+      213: -2586736745365872123
+    second: pngfind.com-cat-png-607007_3
+  - first:
+      213: 761191402946153487
+    second: pngfind.com-cat-png-607007_4
+  - first:
+      213: -8129406704225101978
+    second: pngfind.com-cat-png-607007_5
+  - first:
+      213: 3809277295074289976
+    second: pngfind.com-cat-png-607007_6
+  - first:
+      213: -5112221413294741337
+    second: pngfind.com-cat-png-607007_7
+  - first:
+      213: 7549357611981337681
+    second: pngfind.com-cat-png-607007_8
+  - first:
+      213: 1084305282659177468
+    second: pngfind.com-cat-png-607007_9
+  - first:
+      213: -4996728828671700974
+    second: pngfind.com-cat-png-607007_10
+  - first:
+      213: -454440083122534076
+    second: pngfind.com-cat-png-607007_11
+  - first:
+      213: -1797246360788633822
+    second: pngfind.com-cat-png-607007_12
+  - first:
+      213: 5469104802670664026
+    second: pngfind.com-cat-png-607007_13
+  - first:
+      213: 8396031569876410576
+    second: pngfind.com-cat-png-607007_14
+  - first:
+      213: 8012926508743776833
+    second: pngfind.com-cat-png-607007_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_0
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 527
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e2e4cd4f5c22560800000000000000
+      internalID: 7287604802497687131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 463
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508460820d733e6c0800000000000000
+      internalID: -4115384267322275835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 167
+        width: 615
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e253524c5c5d9640800000000000000
+      internalID: 5088324705318032099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 423
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502640d92a01a1cd0800000000000000
+      internalID: -2586736745365872123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 359
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ccfaa4c8b409a00800000000000000
+      internalID: 761191402946153487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 159
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667dbf78cab8e2f80800000000000000
+      internalID: -8129406704225101978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8392dd774854dd430800000000000000
+      internalID: 3809277295074289976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8eb67d5bdbd09b0800000000000000
+      internalID: -5112221413294741337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 103
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154f988ffb4b4c860800000000000000
+      internalID: 7549357611981337681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3daf0e8e93c0f00800000000000000
+      internalID: 1084305282659177468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 85
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d118aa9d08aab0800000000000000
+      internalID: -4996728828671700974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 86
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44948c1f62181b9f0800000000000000
+      internalID: -454440083122534076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227745305f5ee07e0800000000000000
+      internalID: -1797246360788633822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59519a67d926eb40800000000000000
+      internalID: 5469104802670664026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0e27d8a32b48470800000000000000
+      internalID: 8396031569876410576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-cat-png-607007_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14adbf49432a33f60800000000000000
+      internalID: 8012926508743776833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngfind.com-cat-png-607007_0: 7287604802497687131
+      pngfind.com-cat-png-607007_1: -4115384267322275835
+      pngfind.com-cat-png-607007_10: -4996728828671700974
+      pngfind.com-cat-png-607007_11: -454440083122534076
+      pngfind.com-cat-png-607007_12: -1797246360788633822
+      pngfind.com-cat-png-607007_13: 5469104802670664026
+      pngfind.com-cat-png-607007_14: 8396031569876410576
+      pngfind.com-cat-png-607007_15: 8012926508743776833
+      pngfind.com-cat-png-607007_2: 5088324705318032099
+      pngfind.com-cat-png-607007_3: -2586736745365872123
+      pngfind.com-cat-png-607007_4: 761191402946153487
+      pngfind.com-cat-png-607007_5: -8129406704225101978
+      pngfind.com-cat-png-607007_6: 3809277295074289976
+      pngfind.com-cat-png-607007_7: -5112221413294741337
+      pngfind.com-cat-png-607007_8: 7549357611981337681
+      pngfind.com-cat-png-607007_9: 1084305282659177468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,10 +3,22 @@ using UnityEngine;
 
 public class ButtonAction : MonoBehaviour
 {
+    SpriteRenderer spriteRenderer;
+
+    void Awake()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    void OnEnable()
+    {
+        transform.position = Vector3.zero;
+    }
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        spriteRenderer.color = Color.black;
     }
 
     // Update is called once per frame
@@ -18,7 +30,6 @@ public class ButtonAction : MonoBehaviour
     public void MoveRight()
     {
         transform.position += new Vector3(1, 0, 0);
-        // 오브젝트의 위치를 x + 1 만큼 이동시킨다.
     }
     public void MoveLeft()
     {

@@ -53,6 +53,13 @@ public class PlayerInput : MonoBehaviour
         rigid.linearVelocity = moveInput * moveSpeed; // 이동은 Rigidbody2D의 속도로 처리합니다.
     }
 
+    void OnCollisionEnter2D(Collision2D collision) // Collision
+    {
+        Debug.Log($"{collision.gameObject.name}과 충돌했습니다.");
+    }
 
-
+    void OnTriggerEnter2D(Collider2D other) // Trigger
+    {
+        Debug.Log($"{other.gameObject.name}의 범위에 들어왔습니다.");
+    }
 }
